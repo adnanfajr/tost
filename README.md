@@ -15,12 +15,12 @@ Pembuatan Formulir Survei dan Pengambilan Data
  1. Untuk membuat formulir dengan format XML menggunakan tools dari [ODK Build][5]. Hasil dari pembuatan formulir XML adalah sebagai berikut : [Formulir XML][1]
 
  2. Untuk melihat formulir yang dipergunakan dapat dilihat sebagai berikut :
- - [Link menuju form.doc][2] (Formulir pengajuan yang dibuat oleh mahasiswa secara cetak)
- - [Link menuju letter.doc][6] (Surat yang dibuat oleh pegawai TU setelah pengajuan formulir mahasiswa)
+  - [Link menuju form.doc][2] (Formulir pengajuan yang dibuat oleh mahasiswa secara cetak)
+  - [Link menuju letter.doc][6] (Surat yang dibuat oleh pegawai TU setelah pengajuan formulir mahasiswa)
  
  3. Hasil dari pengisian form dapat dilihat sebagai berikut :
- - [Screenshot 1][3]
- - [Screenshot 2][4]
+  - [Screenshot 1][3]
+  - [Screenshot 2][4]
 
 
   [1]: https://github.com/adnanfajr/tost/blob/master/form/Form%20Survei%20dan%20Pengambilan%20Data.xml
