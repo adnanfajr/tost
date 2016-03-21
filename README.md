@@ -11,7 +11,7 @@ Pembuatan Formulir Survei dan Pengambilan Data
  6. Tujuan Survei
  7. Data yang diperlukan
  
- ##Dokumentasi :
+##Dokumentasi :
  1. Untuk membuat formulir dengan format XML menggunakan tools dari [ODK Build][5]. Hasil dari pembuatan formulir XML adalah sebagai berikut : [Formulir XML][1]
 
  2. Untuk melihat formulir yang dipergunakan dapat dilihat sebagai berikut :
