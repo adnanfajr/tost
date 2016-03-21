@@ -26,7 +26,7 @@ Pembuatan Formulir Survei dan Pengambilan Data
   - [Screenshot 1][3]
   - [Screenshot 2][4]
   
- 5. Hasil dari pengisian formulir dapat dilihat pada http://<IP server>:8080/<directory instalasi ODK Aggregate>
+ 5. Hasil dari pengisian formulir dapat dilihat pada http://(host server):8080/(directory instalasi ODK Aggregate)
 
 
   [1]: https://github.com/adnanfajr/tost/blob/master/form/Form%20Survei%20dan%20Pengambilan%20Data.xml
